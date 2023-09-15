@@ -32,7 +32,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 
 <div align="center">
 
-
+![API-2023_2-BACKLOG](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/68930336/8eb838fe-83d1-4c78-849a-223a7b614b9e)
 </div>
 
 <span id="tecnologias">
