@@ -1,0 +1,6 @@
+[submodule "Backend API-2023_2-Back"]
+	path = API-2023_2-Back
+	url = https://github.com/Our-time-Fatec/API-2023_2-Back.git
+[submodule "Frontend API-2023_2-Front"]
+	path = API-2023_2-Front
+	url = https://github.com/Our-time-Fatec/API-2023_2-Front.git
