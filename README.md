@@ -12,7 +12,11 @@
 
 ## 📄 Sobre o projeto
 
-> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
+> O projeto a ser desenvolvido tem como objetivo ser uma ferramenta que irá auxiliar pessoas interessadas em alugar bicicletas
+> Após a conclusão do projeto os usuários serão capazes de:
+> * Disponibilizar sua bicicletas para aluguel através de anúncios
+> * Procurar por bicicletas disponíveis no sistema para aluguel
+> * Efetuar avaliações, que posteriormente irão compor um sistema de reputação tanto de locador como de locatário.
 
 📌- Status do Projeto: **Em Andamento** ⏳
 
