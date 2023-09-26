@@ -13,3 +13,8 @@
 ## Burndown
 
 ![Burndown](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/abd74570-6472-4faf-bdc0-91a4dab66e3a)
+
+
+## Testes e resultados 
+
+<--! Inserir link do vídeo aqui-->
