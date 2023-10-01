@@ -24,8 +24,8 @@
 Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 27/09/2023 | ⏳ Em Andamento     | [Ver Relatório](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/blob/sprint-1/README.md) |
-| 02 | 25/10/2023 | Não Iniciado        | [🚫]() |
+| 01 | 27/09/2023 | ✔️ Concluída       | [Ver Relatório](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/blob/sprint-1/README.md) |
+| 02 | 25/10/2023 | ⏳ Em Andamento     | [🚫]() |
 | 03 | 22/11/2023 | Não Iniciado        | [🚫]() |
 
 → [Voltar ao topo](#topo)
