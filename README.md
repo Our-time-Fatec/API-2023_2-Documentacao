@@ -4,7 +4,9 @@
  <summary>Banco de dados</summary>
  <summary>Modelo conceitual</summary>
  
- ![Modelo_Conceitual_bicicleta (1)](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/3ce371b3-90eb-42be-a093-1956062951fe)
+ ![Modelo_Conceitual_bicicleta](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/f0a74bc0-0b20-44e4-9608-5cd9a3af03d9)
+
+
  <summary>Modelo lógico</summary>
  
  ![logico](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/a5104f88-82bb-4ad2-a3e0-14cdb815bef9)
