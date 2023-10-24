@@ -25,7 +25,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 27/09/2023 | ✔️ Concluída       | [Ver Relatório](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/blob/sprint-1/README.md) |
-| 02 | 25/10/2023 | ⏳ Em Andamento     | [🚫]() |
+| 02 | 25/10/2023 | ⏳ Em Andamento     | [Ver Relatório](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/blob/sprint-2/README.md) |
 | 03 | 22/11/2023 | Não Iniciado        | [🚫]() |
 
 → [Voltar ao topo](#topo)
@@ -35,8 +35,10 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 ## 🎯 Backlogs, Épicos & User Stories
 
 <div align="center">
+    
+![API DSM 2 Semestre](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/52d701a7-7f8a-4f5f-9db6-d0d4258531dd)
 
-![API-2023_2-BACKLOG](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/68930336/8eb838fe-83d1-4c78-849a-223a7b614b9e)
+
 </div>
 
 <span id="tecnologias">
