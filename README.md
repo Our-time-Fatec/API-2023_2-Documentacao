@@ -22,7 +22,8 @@
 <details>
  <summary>Burndown</summary>
 
-![Burndown](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/abd74570-6472-4faf-bdc0-91a4dab66e3a)
+![2 sprint](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/8b2e83f0-7c73-44b5-9203-f6c7770c4789)
+
 </details>
 
 ## Testes e resultados 
