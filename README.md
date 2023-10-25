@@ -12,7 +12,7 @@
 
 ## 📄 Sobre o projeto
 
-> O projeto a ser desenvolvido tem como objetivo ser uma ferramenta que irá auxiliar pessoas interessadas em alugar bicicletas
+> O projeto a ser desenvolvido tem como objetivo ser uma ferramenta que irá auxiliar pessoas interessadas em alugar bicicletas.
 > Após a conclusão do projeto os usuários serão capazes de:
 > * Disponibilizar sua bicicletas para aluguel através de anúncios
 > * Procurar por bicicletas disponíveis no sistema para aluguel
@@ -21,7 +21,7 @@
 📌- Status do Projeto: **Em Andamento** ⏳
 
 ### 🏁 Entregas de Sprints
-Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
+Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web, mobile, back...), além da criação de branches em cada um deles com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 27/09/2023 | ✔️ Concluída       | [Ver Relatório](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/blob/sprint-1/README.md) |
