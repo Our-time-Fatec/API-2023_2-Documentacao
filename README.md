@@ -1,7 +1,7 @@
 # API-2023_2°-Sprint
 
 <details>
- <summary>Banco de dados</summary>
+ <summary>Atualizações do Banco de dados</summary>
  <summary>Modelo conceitual</summary>
  
  ![Modelo_Conceitual_bicicleta](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/f0a74bc0-0b20-44e4-9608-5cd9a3af03d9)
@@ -15,8 +15,12 @@
 </details>
 
 <details>
- <summary>Telas desenvolvidas</summary>
- 
+ <summary>Trabalhos realizados</summary>
+ <ul>
+  <li>Estilização das telas</li>
+  <li>Funcionalidade alteração de cadastro de usuário</li>
+  <li>Criação de solicitações de locação</li>
+ </ul>
 
 
  
@@ -28,10 +32,6 @@
 
 </details>
 
-## Testes e resultados 
 
-<a href="https://api-2023-2-front.vercel.app">Acesse o site</a> 
-
-[Apresentação Sprint 1](https://youtu.be/rqFqfh3aHoA)
 
 
