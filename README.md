@@ -11,7 +11,7 @@
  
  ![Bicicreta-2023-10-25_21-52 (1)](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/502c48cb-2029-41af-bd9a-cc474ecbfdd3)
 
-
+<a href="https://github.com/Our-time-Fatec/API-2023_2-Documentacao/files/13172543/Bicicreta.pdf">Documentação do banco</a>
 </details>
 
 <details>
@@ -20,6 +20,9 @@
   <li>Estilização das telas</li>
   <li>Funcionalidade alteração de cadastro de usuário</li>
   <li>Criação de solicitações de locação</li>
+  
+  ![f4e8ae0e-1f11-46a2-babc-b8276f2c8b27](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/19987694-bf09-4537-9aaf-70c5bb3f1dd9)
+
  </ul>
 
 
