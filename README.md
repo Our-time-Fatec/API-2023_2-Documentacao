@@ -36,8 +36,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 
 <div align="center">
     
-![API DSM 2 Semestre](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/52d701a7-7f8a-4f5f-9db6-d0d4258531dd)
-
+![API DSM 2 Semestre (1)](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/292bdb3c-cb7b-45b2-826d-e615ce5acebd)
 
 </div>
 
