@@ -25,7 +25,7 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 27/09/2023 | ✔️ Concluída       | [Ver Relatório](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/blob/sprint-1/README.md) |
-| 02 | 25/10/2023 | ⏳ Em Andamento     | [Ver Relatório](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/blob/sprint-2/README.md) |
+| 02 | 25/10/2023 | ✔️ Concluída     | [Ver Relatório](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/blob/sprint-2/README.md) |
 | 03 | 22/11/2023 | Não Iniciado        | [🚫]() |
 
 → [Voltar ao topo](#topo)
