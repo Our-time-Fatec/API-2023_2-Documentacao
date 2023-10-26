@@ -9,7 +9,9 @@
 
  <summary>Modelo lógico</summary>
  
- ![logico](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/a5104f88-82bb-4ad2-a3e0-14cdb815bef9)
+ ![Bicicreta-2023-10-25_21-52 (1)](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/502c48cb-2029-41af-bd9a-cc474ecbfdd3)
+
+
 </details>
 
 <details>
