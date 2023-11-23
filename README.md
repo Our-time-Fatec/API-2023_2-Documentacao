@@ -15,7 +15,7 @@
 </details>
 
 <details>
- <summary>Trabalhos realizados</summary>
+ <summary>Trabalhos desenvolvidos</summary>
  <ul>
   <li>Melhorias na estilização das telas</li>
   <li>Criação da funcionalidade do login através do Google</li>
@@ -37,7 +37,7 @@
    ![modal solicitação](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/ca9106e5-e20e-4912-a573-41e73ca71f97)
 
 
-   <li>Solcitações Enviada</li>
+   <li>Solcitações Enviadas</li>
    
    ![solicitações enviadas](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/27953d38-5e6a-4e1a-895b-5044b15078bb)
 
@@ -76,7 +76,8 @@
 <details>
  <summary>Burndown</summary>
 
-![2 sprint](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/8b2e83f0-7c73-44b5-9203-f6c7770c4789)
+![burndown](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/f1ed9936-145a-4785-95ae-30370dc403c8)
+
 
 </details>
 
