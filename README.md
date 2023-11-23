@@ -22,7 +22,7 @@
   
   ![loadGoogle](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/2ea30d3f-c222-4e74-a2b4-c70f40982469)
 
-  <li>Desenvolvimento do sistema de locação e avaliação</li>
+  <li>Desenvolvimento do sistema de solicitação e locação</li>
   
   ![solicitation](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/c9b2851e-f484-4848-b379-b0b95630300f)
 
