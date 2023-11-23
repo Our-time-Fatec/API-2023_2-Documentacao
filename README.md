@@ -17,16 +17,24 @@
 <details>
  <summary>Trabalhos desenvolvidos</summary>
  <ul>
-  <li>Melhorias na estilização das telas</li>
+ 
   <li>Criação da funcionalidade do login através do Google</li>
+  
+  ![loadGoogle](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/2ea30d3f-c222-4e74-a2b4-c70f40982469)
+
   <li>Desenvolvimento do sistema de locação e avaliação</li>
+  
+  ![solicitation](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/c9b2851e-f484-4848-b379-b0b95630300f)
+
   <li>Melhorias nos campos de preenchimento de dados cadastrais</li>
   
+  ![edited](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/3e8a5dfd-61fc-44b8-bb45-63857c666753)
+
   
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   <details>
-  <summary>Sistema de Locação</summary>
+  <summary>Funcionamento do sistema de Locação</summary>
    
    <li>Tela de solicitação</li>
    
