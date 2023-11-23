@@ -1,7 +1,7 @@
 # API-2023_3°-Sprint
 
 <details>
- <summary>Atualizações do Banco de dados</summary>
+ <summary>Modelagem do Banco de dados</summary>
  <summary>Modelo conceitual</summary>
  
  ![Modelo_Conceitual_bicicleta](https://github.com/Our-time-Fatec/API-2023_2-Documentacao/assets/93159431/f0a74bc0-0b20-44e4-9608-5cd9a3af03d9)
